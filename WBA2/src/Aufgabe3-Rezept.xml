@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezept>
+<name>Lenchen´s Schokoladenkuchen</name>
+	<Zutaten>
+		<typ>
+			<Name>Zucker</Name>
+			<menge>200</menge>
+			<einheit>g</einheit>
+		</typ>
+		<typ>
+			<Name>Butter</Name>
+			<menge>200</menge>
+			<einheit>g</einheit>
+		</typ>
+		<typ>
+			<Name>Schokolade</Name>
+			<menge>200</menge>
+			<einheit>g</einheit>
+		</typ>
+		<typ>
+			<Name>Mehl</Name>
+			<menge>120</menge>
+			<einheit>g</einheit>
+		</typ>
+		<typ>
+			<Name>Backpulver</Name>
+			<menge>1/2</menge>
+			<einheit>TL</einheit>
+		</typ>
+		<typ>
+			<Name>Vanillezucker</Name>
+			<menge>1</menge>
+			<einheit>Vanillezucker</einheit>
+		</typ>
+		<typ>
+			<Name>Eier</Name>
+			<menge>4</menge>
+			<einheit></einheit>
+		</typ>
+	</Zutaten>
+	<Zubereitung>
+		<Arbeitszeit>ca. 1 Std</Arbeitszeit>
+		<schwierigkeitsgrad>normal</schwierigkeitsgrad>
+		<brennwert>295 kcal</brennwert>
+		<beschreibung>Spaghetti in reichlich Salzwasser kochen, bis sie "al dente" sind. Etwas Olivenöl in einen kleinen Topf geben und darin den fein gehackten Knoblauch leicht anbraten. Frischkäse dazu und mit der Sahne zu einer glatten Soße verrühren. Den Gouda in der Sauce schmelzen. Mit Pfeffer, Salz und Gemüsebrühe würzen. Sauce auf den gekochten Spaghettis verteilen und mit Parmesan bestreuen.</beschreibung>
+	</Zubereitung>
+
+</Rezept>
