@@ -97,6 +97,7 @@ public class Aufgabe4 {
     // Füge einen neuen Kommentar hinzu
     Kommentieren k = new Kommentieren();
     //  k.setName("34");
+    
     //k.setDatum("ICH");
     //k.setZeit("http://nichts.com/foto.png");
     k.setKommentare("wer wo hier");
