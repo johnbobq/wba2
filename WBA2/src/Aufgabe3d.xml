@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Rezepte xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Aufgabe3d.xsd">
+  <Rezept>
+    <Rezeptname>Rezeptname</Rezeptname>
+    <Autor>Autor</Autor>
+    <Zutaten>
+      <Zutat>
+        <Name>Name</Name>
+      </Zutat>
+    </Zutaten>
+    <Portionen>0</Portionen>
+    <Zubereitung>
+      <Arbeitszeit>
+        <Dauer>0</Dauer>
+      </Arbeitszeit>
+      <Schwierigkeitsgrad>Schwierigkeitsgrad</Schwierigkeitsgrad>
+      <Brennwert-p.P>0</Brennwert-p.P>
+      <Vorgänge>Vorgänge</Vorgänge>
+    </Zubereitung>
+    <Kommentieren/>
+  </Rezept>
+</Rezepte>
